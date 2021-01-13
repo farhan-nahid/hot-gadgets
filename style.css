@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+nav ul li a:hover {
+  background-color: black;
+}
+
+/* nanbar css end */
+
+#carousel {
+  background-image: url(img/bg-1.png);
+  background-repeat: no-repeat;
+  background-position: cover;
+  overflow: hidden;
+}
+
+/* carousel css end */
+
+#phone {
+  background-image: url(img/bg-2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+
+#phone a {
+  text-decoration: none;
+}
+
+/* phone css end */
+
+.card-border {
+  border: none;
+}
+
+.card_end {
+  background-color: white;
+  border: none;
+}
+
+/* card css end */
+
+#laptop {
+  background-image: url(img/bg-2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+
+#laptop a {
+  text-decoration: none;
+}
+
+/* laptop css end */
+
+#categories {
+  background-image: url(img/bg-1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+#categories hr {
+  width: 10%;
+  height: 10px;
+  border-radius: 20px;
+  margin: 5px auto;
+  background-image: linear-gradient(#0ed318, #1407c0);
+}
+
+/* categories css end */
+
+footer {
+  background-color: rgb(184, 178, 178);
+}
+
+/* footer css end */
